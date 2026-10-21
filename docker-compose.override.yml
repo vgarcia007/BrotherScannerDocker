@@ -1,4 +1,0 @@
-services:
-  brother-scanner:
-    restart: "no"
-    profiles: ["retired"]
